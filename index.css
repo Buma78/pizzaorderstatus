@@ -1,0 +1,27 @@
+.container{
+    width: 400px;
+    margin: 20px auto;
+}
+
+.order-status-block{
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+    pointer-events: none;
+}
+.order-status-wrapper{
+    display: flex;
+    background-image: url(https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+    flex-direction:column;
+    border: 1px solid orangered;
+    border-radius: 100px;
+    width: 700px;
+    margin:20px auto;
+}
+.imgback{
+    background-image: url(https://t3.ftcdn.net/jpg/04/08/51/78/360_F_408517872_u7m4me8l83eenmUcsJ1ArSZymm5Unz4X.jpg);
+}
+.main-title{
+    text-align: center;
+    margin: 20px;
+}
